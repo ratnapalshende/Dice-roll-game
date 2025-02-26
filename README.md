@@ -1,4 +1,5 @@
 # Dice Roll Game
+You can access the game from here live [Dice Roll Game](https://ratnapalshende.github.io/Dice-roll-game/)
 
 ## 📝 How to Play
 
